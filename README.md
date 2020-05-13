@@ -1,4 +1,14 @@
-# orgalogic-earth-service-alliance
+# Earth Service Alliance (ESA)
+## of humanity, in service to life.
+
+> Establishment and maintenance of a life-serving sustainable planetary social order and service infrastructure, based on natural principles and the full realisation of the rights of life, including human and animal rights.
+
+Planetary Services and Systems
+- Each service is provided by a self-organising alliance
+- Services are provided through publicly owned open-source systems
+  - e.g., communications service: open-source communications system
+  - Systems and assets belong to a global commons
+- Implemented in holonomic jurisdictions
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
