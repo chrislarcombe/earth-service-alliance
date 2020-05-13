@@ -11,7 +11,16 @@
   - Systems and assets belong to a global commons
 - Implemented in holonomic jurisdictions
 
-Service Alliance
+### Life Service
+
+- Each life service, or service, is a “service to life”
+  - Life-supporting, life-giving, life-serving, life-nourishing, life-sustaining, life-enhancing, life-protecting, etc. based on the known rights of life and current state of human knowledge.
+- Service for each societal sector or human endeavour
+  - e.g., communication service, health service, energy service.
+  - e.g., communication, intelligence, synergy, governance, energy, food, health, transport, technology, infrastructure, education, security, justice, etc.
+- Provided within/to holonomic jurisdictions
+    
+### Service Alliance
 
 - An alliance of individuals or groups (members), providing a life-service
   - Every individual included aligns with life
