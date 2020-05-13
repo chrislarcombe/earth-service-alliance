@@ -1,7 +1,7 @@
 # Earth Service Alliance (ESA)
 #### of humanity, in service to life.
 
-> Establishment and maintenance of a life-serving sustainable planetary social order and service infrastructure, based on natural principles and the full realisation of the rights of life, including human and animal rights.
+> "Establishment and maintenance of a life-serving sustainable planetary social order and service infrastructure, based on natural principles and the full realisation of the rights of life, including human and animal rights."
 
 ### Planetary Services and Systems
 
@@ -11,8 +11,17 @@
   - Systems and assets belong to a global commons
 - Implemented in holonomic jurisdictions
 
+Service Alliance
 
-
+- An alliance of individuals or groups (members), providing a life-service
+  - Every individual included aligns with life
+  - Every group included aligns with life
+- Operate within a holonomic jurisdiction
+- Holonic/fractal (can be part of a larger alliance or contain alliances)
+- Self-organising via emergent agreement fields
+- Transparent and democratic
+  - Including members (members must be transparent and democratic)
+- Can communicate and collaborate with other service alliances 
 
 ## Licence
 
