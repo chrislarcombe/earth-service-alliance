@@ -5,7 +5,7 @@
 
 ### Planetary Services and Systems
 
-- Each service is provided by a self-organising alliance
+- Each service is provided by a self-organising alliance with an explicit, well-defined, public intention
 - Services are provided through publicly owned open-source systems
   - e.g., communications service: open-source communications system
   - Systems and assets belong to a global commons
